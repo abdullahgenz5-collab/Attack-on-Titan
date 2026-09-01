@@ -31,7 +31,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/abdullahgenz5-collab/E-Comerace.git
+   git clone hhttps://abdullahgenz5-collab.github.io/Attack-on-Titan/
    cd E-Comerace
    Open in VS Code:
 Install the Live Server extension.
